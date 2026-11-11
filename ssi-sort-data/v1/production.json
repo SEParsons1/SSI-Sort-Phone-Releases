@@ -1,0 +1,14 @@
+{
+  "manifestSchemaVersion": 1,
+  "datasetId": "ssi-sort-areas",
+  "channel": "production",
+  "release": {
+    "schemaVersion": 1,
+    "revision": 12,
+    "publishedAt": "2026-11-09T20:41:35Z",
+    "path": "releases/00000012/areas.json",
+    "sha256": "1eacdfa44cf4bfe7b62295515d9b4286e69347dbef2ac81e924605c54c6788f4",
+    "byteLength": 21121,
+    "entryCount": 339
+  }
+}
