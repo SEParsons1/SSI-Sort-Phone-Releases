@@ -1,0 +1,1385 @@
+{
+  "schemaVersion": 1,
+  "datasetId": "ssi-sort-areas",
+  "revision": 12,
+  "publishedAt": "2026-11-09T20:41:35Z",
+  "changeNote": "Add 2X5 to CENTRAL",
+  "keySpec": "postal-last-3-ascii-v1",
+  "entryCount": 339,
+  "areas": [
+    {
+      "id": "central",
+      "displayName": "CENTRAL"
+    },
+    {
+      "id": "ganges",
+      "displayName": "GANGES"
+    },
+    {
+      "id": "north",
+      "displayName": "NORTH"
+    },
+    {
+      "id": "south",
+      "displayName": "SOUTH"
+    }
+  ],
+  "assignments": [
+    {
+      "suffix": "0A1",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "0A2",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "0A3",
+      "areaId": "central"
+    },
+    {
+      "suffix": "0A6",
+      "areaId": "north"
+    },
+    {
+      "suffix": "0A7",
+      "areaId": "central"
+    },
+    {
+      "suffix": "0B2",
+      "areaId": "central"
+    },
+    {
+      "suffix": "0B4",
+      "areaId": "central"
+    },
+    {
+      "suffix": "1A1",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1A2",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1A3",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1A4",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1A5",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1A6",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1A7",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1A8",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1A9",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1B1",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1B2",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1B3",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1B5",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1B6",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1B7",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1B8",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1B9",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1C1",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1C2",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1C3",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1C4",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1C5",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1C6",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1C7",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1C8",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1C9",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1E1",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1E2",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1E3",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1E4",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1E5",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1E6",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1E7",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1E8",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1E9",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1G1",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1G2",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1G3",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1G5",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1G6",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1G7",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1G8",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1G9",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1H1",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1H2",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1H3",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1H4",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1H5",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1H6",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1H7",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1H8",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1H9",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1J1",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1J2",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1J3",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1J4",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1J5",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1J6",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1J7",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1J8",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1J9",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1K1",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1K2",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1K3",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1K4",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1K5",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1K6",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1K7",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1K8",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1K9",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1L1",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1L2",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1L3",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1L4",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1L5",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1L6",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1L7",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1L8",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1L9",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1M1",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1M2",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1M3",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1M4",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1M5",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1M6",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1M7",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1M8",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1M9",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1N1",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1N2",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1N3",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1N4",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1N5",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1N6",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1N7",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1N8",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1N9",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1P1",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1P2",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1P3",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1P4",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1P5",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1P6",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1P7",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1P8",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1P9",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1Q1",
+      "areaId": "central"
+    },
+    {
+      "suffix": "1R1",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1R2",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1R3",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1R4",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1R5",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1R6",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1R7",
+      "areaId": "central"
+    },
+    {
+      "suffix": "1R8",
+      "areaId": "central"
+    },
+    {
+      "suffix": "1R9",
+      "areaId": "central"
+    },
+    {
+      "suffix": "1S1",
+      "areaId": "central"
+    },
+    {
+      "suffix": "1S2",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1S3",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1S4",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1S5",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1S6",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1S7",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1S8",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1S9",
+      "areaId": "north"
+    },
+    {
+      "suffix": "1T1",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1T2",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1T3",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1T4",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1T5",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1T6",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1T7",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1T8",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1T9",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1V1",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1V2",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1V3",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1V4",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1V5",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1V6",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1V7",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1V8",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1V9",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1W1",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1W2",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1W3",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1W4",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1W5",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1W6",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1W7",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1W8",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1W9",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1X1",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1X2",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1X3",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1X4",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1X5",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1X6",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1X8",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1X9",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1Y1",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1Y2",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1Y3",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1Y4",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1Y5",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1Y6",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1Y7",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1Y8",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1Y9",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1Z2",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1Z3",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1Z4",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1Z5",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1Z6",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1Z7",
+      "areaId": "south"
+    },
+    {
+      "suffix": "1Z8",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "1Z9",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2A2",
+      "areaId": "south"
+    },
+    {
+      "suffix": "2A3",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2A4",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2A5",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2A8",
+      "areaId": "south"
+    },
+    {
+      "suffix": "2A9",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2B1",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2B2",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2B3",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2B4",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2B5",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2B6",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2B7",
+      "areaId": "south"
+    },
+    {
+      "suffix": "2B8",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2B9",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2C1",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2C2",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2C3",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2C4",
+      "areaId": "south"
+    },
+    {
+      "suffix": "2C5",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2C6",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2C7",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2C8",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2C9",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2E1",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2E2",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2E3",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2E4",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2E5",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2E6",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2E7",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2E8",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2E9",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2G1",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2G2",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2G3",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2G4",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2G5",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2G6",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2G7",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2G8",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2G9",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2H1",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2H2",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2H3",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2H4",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2H5",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2H6",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2H7",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2H8",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2H9",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2J1",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2J2",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2J3",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2J4",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2J5",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2J6",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2J7",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2J8",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2J9",
+      "areaId": "south"
+    },
+    {
+      "suffix": "2K1",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2K2",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2K3",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2K4",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2K5",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2K6",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2K7",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2K8",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2K9",
+      "areaId": "north"
+    },
+    {
+      "suffix": "2L1",
+      "areaId": "north"
+    },
+    {
+      "suffix": "2L2",
+      "areaId": "north"
+    },
+    {
+      "suffix": "2L3",
+      "areaId": "north"
+    },
+    {
+      "suffix": "2L4",
+      "areaId": "north"
+    },
+    {
+      "suffix": "2L5",
+      "areaId": "north"
+    },
+    {
+      "suffix": "2L6",
+      "areaId": "north"
+    },
+    {
+      "suffix": "2L7",
+      "areaId": "north"
+    },
+    {
+      "suffix": "2L8",
+      "areaId": "north"
+    },
+    {
+      "suffix": "2L9",
+      "areaId": "north"
+    },
+    {
+      "suffix": "2M1",
+      "areaId": "north"
+    },
+    {
+      "suffix": "2M2",
+      "areaId": "north"
+    },
+    {
+      "suffix": "2M3",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2M4",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2M5",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2M6",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2M8",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2M9",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2N1",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2N2",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2N3",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2N4",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2N5",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2N6",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2N7",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2N8",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2N9",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2P1",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2P3",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2P4",
+      "areaId": "north"
+    },
+    {
+      "suffix": "2P5",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2P6",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2P7",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2P8",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2P9",
+      "areaId": "north"
+    },
+    {
+      "suffix": "2R1",
+      "areaId": "north"
+    },
+    {
+      "suffix": "2R2",
+      "areaId": "north"
+    },
+    {
+      "suffix": "2R3",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2R4",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2R5",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2R6",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2R7",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2R8",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2R9",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2S1",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2S2",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2S3",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2S4",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2S5",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2S6",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2S7",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2S8",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2S9",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2T1",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2T2",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2T3",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2T4",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2T5",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2T6",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2T8",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2T9",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2V1",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2V2",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2V3",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2V4",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2V5",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2V6",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2V7",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2V8",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2V9",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2W1",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2W2",
+      "areaId": "north"
+    },
+    {
+      "suffix": "2W3",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2W4",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2W5",
+      "areaId": "north"
+    },
+    {
+      "suffix": "2W6",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2W8",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2W9",
+      "areaId": "south"
+    },
+    {
+      "suffix": "2X4",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2X5",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2X6",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2X7",
+      "areaId": "ganges"
+    },
+    {
+      "suffix": "2X8",
+      "areaId": "south"
+    },
+    {
+      "suffix": "2Y1",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2Y2",
+      "areaId": "north"
+    },
+    {
+      "suffix": "2Y3",
+      "areaId": "central"
+    },
+    {
+      "suffix": "2Y4",
+      "areaId": "ganges"
+    }
+  ]
+}
