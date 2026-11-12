@@ -3,16 +3,16 @@
   "applicationId": "com.companyname.ssisort.phone",
   "channel": "production",
   "sourceRepository": "SEParsons1/SSI-Sort-Kotlin",
-  "signingCertificateSha256": "4b41c95897f98a5316f18d21d01539e209ad3e1e1b39cc54d5b58b065a498381",
+  "signingCertificateSha256": "d256a3fc0da2e180a0c78eb7aa82932af963642ac9314363df96f01b00a9ad8d",
   "release": {
-    "versionCode": 4,
-    "versionName": "1.0.3",
-    "publishedAt": "2026-11-11T07:27:44Z",
-    "sourceCommit": "1cb1bac0e418abf79a0b541c7a4b03abed3e90f4",
+    "versionCode": 5,
+    "versionName": "1.0.4",
+    "publishedAt": "2026-11-12T01:09:20Z",
+    "sourceCommit": "44fe7b032889d2bceab66fb2bd9a90f42b745cb2",
     "apk": {
-      "url": "https://github.com/SEParsons1/SSI-Sort-Phone-Releases/releases/download/phone-v1.0.3/ssi-sort-phone-1.0.3.apk",
-      "sha256": "8a627afcdd0eef618745bf9c719bf07de24999dbe9d5fbbd017872e5ecfbd758",
-      "byteLength": 73455002
+      "url": "https://github.com/SEParsons1/SSI-Sort-Phone-Releases/releases/download/phone-v1.0.4/ssi-sort-phone-1.0.4.apk",
+      "sha256": "64f8909ba6ef61143ed1c0f99f2c8734302848d213004a74a0ab78d9bdbc1855",
+      "byteLength": 73469536
     }
   }
 }
