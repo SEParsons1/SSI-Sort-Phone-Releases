@@ -4,11 +4,11 @@
   "channel": "production",
   "release": {
     "schemaVersion": 1,
-    "revision": 12,
-    "publishedAt": "2026-11-09T20:41:35Z",
-    "path": "releases/00000012/areas.json",
-    "sha256": "1eacdfa44cf4bfe7b62295515d9b4286e69347dbef2ac81e924605c54c6788f4",
-    "byteLength": 21121,
-    "entryCount": 339
+    "revision": 13,
+    "publishedAt": "2026-11-12T06:19:27Z",
+    "path": "releases/00000013/areas.json",
+    "sha256": "40b1f6fbf4507f7b5de4fcbd35a20b0d17dcc3ffb2d51f064862c14ecc5c0546",
+    "byteLength": 21051,
+    "entryCount": 338
   }
 }
