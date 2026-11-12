@@ -1,0 +1,18 @@
+{
+  "manifestSchemaVersion": 1,
+  "applicationId": "com.companyname.ssisort.desktop",
+  "channel": "production",
+  "sourceRepository": "SEParsons1/SSI-Sort-Kotlin",
+  "signingCertificateSha256": "3d841450b63d2d37eb3f9045a469dc9a3d0df88ce7ec79b775b49b7606dc39dc",
+  "release": {
+    "versionCode": 7,
+    "versionName": "1.0.6",
+    "publishedAt": "2026-11-12T04:09:32Z",
+    "sourceCommit": "50266aabd7b2ec80e897dc5e05d59b9175ef97ca",
+    "apk": {
+      "url": "https://github.com/SEParsons1/SSI-Sort-Phone-Releases/releases/download/pc-v1.0.6/ssi-sort-windows-1.0.6.msi",
+      "sha256": "ad4a1932f08732aaed2d482327baf97c0f0cc1530bb2647413f58a501466f18f",
+      "byteLength": 96653692
+    }
+  }
+}
