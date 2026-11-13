@@ -7,10 +7,10 @@
   "release": {
     "versionCode": 13,
     "versionName": "1.0.12",
-    "publishedAt": "2026-11-13T14:27:32Z",
+    "publishedAt": "2026-11-13T21:21:37Z",
     "sourceCommit": "a451635ba9e9ee1f6ed059fbea4c26a4c4ea4fd1",
     "apk": {
-      "url": "https://github.com/SEParsons1/SSI-Sort-Phone-Releases/releases/download/v1.0.12/ssi-sort-scanner.apk",
+      "url": "https://github.com/SEParsons1/SSI-Sort-Phone-Releases/releases/download/scanner-v1.0.12/ssi-sort-scanner.apk",
       "sha256": "7d8716273d397a3411bed8e1df48adf62c18971bb34cd42539ec21989e28c405",
       "byteLength": 44785250
     }
