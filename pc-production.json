@@ -7,10 +7,10 @@
   "release": {
     "versionCode": 13,
     "versionName": "1.0.12",
-    "publishedAt": "2026-11-13T14:27:32Z",
+    "publishedAt": "2026-11-13T21:21:28Z",
     "sourceCommit": "a451635ba9e9ee1f6ed059fbea4c26a4c4ea4fd1",
     "apk": {
-      "url": "https://github.com/SEParsons1/SSI-Sort-Phone-Releases/releases/download/v1.0.12/ssi-sort-windows.exe",
+      "url": "https://github.com/SEParsons1/SSI-Sort-Phone-Releases/releases/download/pc-v1.0.12/ssi-sort-windows.exe",
       "sha256": "c085262121d8b8dc54d8c7eba4adb2f74ea07476104681e814384e42ecb4d263",
       "byteLength": 97337344
     }
